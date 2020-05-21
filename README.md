@@ -11,4 +11,4 @@ Licenced under CC BY-SA 3.0
 
 ![BOARD](https://raw.githubusercontent.com/diysynth/DUAL-UNIPOLAR-LFO/master/BOARD/lfo.jpg)
 
-*Sebastian Jazura, 2020, CC BY-SA 3.0*
+*Sebastian Jazura, 2019, CC BY-SA 3.0*
