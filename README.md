@@ -1,6 +1,6 @@
 # DUAL-UNIPOLAR-LFO
 
-(Attention: The gerber files are placeholder. The Design is working well but has a few little flaws. One is that the pulse outputs only output 4Vpp instead of 5Vpp. I will change the format to better fit with the other modules. Revision of the board is coming around autumn 2020)
+(Attention: The gerber files are placeholder. The Design is working well but has a few little flaws. One is that the pulse outputs only output 4 Vpp instead of 5 Vpp. I will change the format to better fit with the other modules. Revision of the board is coming around autumn 2020)
 
 ## Description
 Description coming soon!
